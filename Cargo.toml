@@ -1,0 +1,7 @@
+[package]
+name = "viet-telex"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+xflags = { git = "https://github.com/matklad/xflags.git" }
